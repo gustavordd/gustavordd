@@ -1,6 +1,5 @@
 # 💫 About Me:
-- Vivência em infraestrutura, administração e configuração de serviços em nuvem, administração e implantação de soluções Kaspersky, KSC e Endpoint Security, Monitoramento e ações corretivas em Segurança da Informação, Atividades de Data Center, Banco de Dados, Gerenciamento de Active Directory, Projetos de infraestrutura de Redes de Computadores além de Suporte à usuários de 1º e 2º Nível.<br>
-- Desenvolvendo conhecimentos voltados a ambientes em Cloud com tecnologias de automatizacão de processos, gerenciamento e orquestração de containers, infraestrutura como código e entrega continua CI/CD.
+- Entusiasta e amante de Tecnologia, trabalho atualmente como Arquiteto de Soluções, desempenhando uma variedade de atividades técnicas relacionadas ao dimensionamento de soluções de Segurança da Informação e infraestrutura de TI.<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gustavordd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gustavorodrigues99/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@gustavordd_) 
