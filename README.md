@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Entusiasta e amante de Tecnologia, trabalho atualmente como Arquiteto de Soluções, desempenhando uma variedade de atividades técnicas relacionadas ao dimensionamento de soluções de Segurança da Informação e infraestrutura de TI.<br>
+- Entusiasta e amante de tecnologia, trabalho atualmente como Arquiteto de Soluções, desempenhando uma variedade de atividades técnicas relacionadas a projetos e à implementação de soluções de Segurança da Informação.<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gustavordd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gustavorodrigues99/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@gustavordd_) 
