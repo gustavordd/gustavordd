@@ -2,7 +2,7 @@
 - Entusiasta e amante de tecnologia, trabalho atualmente como Arquiteto de Soluções, desempenhando uma variedade de atividades técnicas relacionadas a projetos e à implementação de soluções de Segurança da Informação.<br>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gustavordd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gustavorodrigues99/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@gustavordd_) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gustavordd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gustavorodrigues99/) [![Twitter]
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gustavordd&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
